@@ -1,3 +1,3 @@
-package akuchars.udemy.spring5.model
+package akuchars.udemy.model
 
 class Owner(firstName: String, secondName: String): Person(firstName, secondName)

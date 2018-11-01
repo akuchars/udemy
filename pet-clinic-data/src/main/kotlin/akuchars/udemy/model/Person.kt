@@ -1,3 +1,3 @@
-package akuchars.udemy.spring5.model
+package akuchars.udemy.model
 
 open class Person(val firstName: String, val lastName: String)

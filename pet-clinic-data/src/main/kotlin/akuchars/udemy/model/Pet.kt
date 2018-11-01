@@ -1,4 +1,4 @@
-package akuchars.udemy.spring5.model
+package akuchars.udemy.model
 
 import java.time.LocalDate
 

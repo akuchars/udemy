@@ -1,4 +1,4 @@
-package akuchars.udemy.spring5.petclinic
+package akuchars.udemy.petclinic
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.autoconfigure.SpringBootApplication
