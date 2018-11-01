@@ -1,3 +1,3 @@
 package akuchars.udemy.model
 
-class Owner(firstName: String, secondName: String) : Person(firstName, secondName)
+class Owner(id: Long, firstName: String, secondName: String) : Person(id, firstName, secondName)
