@@ -1,5 +1,3 @@
 package akuchars.udemy.model
 
-enum class PetType {
-
-}
+enum class PetType
