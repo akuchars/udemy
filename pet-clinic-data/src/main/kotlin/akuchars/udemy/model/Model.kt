@@ -1,3 +1,5 @@
 package akuchars.udemy.model
 
-abstract class Model(val id: Long)
+abstract class Model {
+    var id: Long? = null
+}

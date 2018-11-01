@@ -2,7 +2,7 @@ package akuchars.udemy.service.map
 
 import akuchars.udemy.model.Vet
 import akuchars.udemy.service.VetService
+import org.springframework.stereotype.Service
 
-class VetServiceMap : AbstractMapService<Vet, Long>(), VetService {
-    override fun save(model: Vet): Vet = super.save(model.id, model)
-}
+@Service
+class VetServiceMap : AbstractMapService<Vet, Long>(), VetService
